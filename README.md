@@ -1,7 +1,7 @@
 [![MasterHead](https://timewithai.files.wordpress.com/2019/07/thefuture2-793x397.jpg)
 
 <h1 align="center">Hi 👋, I'm Fatih Cubukcu</h1>
-<h3 align="center">A passionate backend developer and system and network expert from Turkey</h3>
+<h3 align="center">Connecting the Physical World to the Digital: IoT Development on TURKEY</h3>
 
 - 🔭 I’m currently working on **C# Desktop automation program**
 
